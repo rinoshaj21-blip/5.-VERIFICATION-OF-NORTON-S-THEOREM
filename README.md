@@ -1,5 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
-
+## NAME : RINOSHA J
+## REF NO: 25018847
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -25,19 +26,24 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
 **To measure IL**
+<img width="1280" height="374" alt="image" src="https://github.com/user-attachments/assets/152dfcd3-5818-4971-81f7-d3d241b3e728" />
 
 
 **To measure RTh or RN**
+<img width="1275" height="462" alt="image" src="https://github.com/user-attachments/assets/75497d92-44fa-4ce6-ac8a-78cd3bd071c3" />
 
 
 
 **To measure IN or Isc**
 
+<img width="518" height="1280" alt="image" src="https://github.com/user-attachments/assets/f71d31f9-608a-4c7a-97ee-6a10e3eeb1fa" />
  
 **Thevenin’s equivalent circuit**
+<img width="581" height="962" alt="image" src="https://github.com/user-attachments/assets/85bce766-e0a4-4912-a415-085e86e44e57" />
 
 
 **Norton’s equivalent circuit**
+<img width="836" height="1280" alt="image" src="https://github.com/user-attachments/assets/4abc56b4-df2d-49ff-9d34-34d0466bea10" />
 
 
 **PROCEDURE:**
